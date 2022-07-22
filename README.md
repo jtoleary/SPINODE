@@ -9,6 +9,13 @@ Please note that the file "CSA.zip" contains example data and results for a coll
 Please direct all questions to jared.oleary@berkeley.edu
 
 # Citation
-
+@article{o2022stochastic,
+  title={Stochastic physics-informed neural ordinary differential equations},
+  author={O'Leary, Jared and Paulson, Joel A and Mesbah, Ali},
+  journal={Journal of Computational Physics},
+  pages={111466},
+  year={2022},
+  publisher={Elsevier}
+}
 
 
